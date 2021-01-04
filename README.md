@@ -3,8 +3,8 @@
 
 # I enjoy learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning iOS with Swift 
-- 👯 I’m looking to collaborate on project with iOS and Swift
+- 🔭 IOS Developer / Freelancer
+- 🌱 I'm daily getting better my skill on iOS with Swift 
+- 👯 I’m looking to collaborate in a project to better my skills, contact me :phone:
 
 
