@@ -3,7 +3,7 @@
 
 # I enjoy learning new technologies
 
-* :iphone: Java/IOS Developer / Freelancer
+* :iphone: Java Developer / Freelancer
 * :blue_book: My principal objective for this first semester is daily getting better my skill on iOS with Swift 
 * 👯 I’m looking to collaborate in a project to better my skills, contact me :phone:
 
