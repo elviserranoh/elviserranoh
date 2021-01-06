@@ -25,8 +25,10 @@
 
 
 ## Pending to study
+* Architecture Hexagonal
+* CQRS: Command Query Responsability Segregation
+* Event-Driven Architecture
 * Kafka and RabbitMQ
-* Event Driven Design
 * CI /CD
 * Jenkins or Github actions
 * Sonarqube
