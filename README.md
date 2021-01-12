@@ -11,7 +11,7 @@
 * Java with Spring Boot
 * Javascript with Angular and ReactJS
 * Kotlin rookie to development in Android Studio
-* Databases MySQL/PostgreSQL and MongoDB
+* Databases MySQL/PostgreSQL
 
 ## Learning
 * I'm studying Node.js
@@ -35,6 +35,7 @@
 * Automatization with Selenium
 * Cucumber to execute tests integration
 * ELK
+* MongoDB
 
 
 
